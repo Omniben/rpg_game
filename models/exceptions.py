@@ -1,0 +1,2 @@
+class RaceException(Exception):
+	pass
